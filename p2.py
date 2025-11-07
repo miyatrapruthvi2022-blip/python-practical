@@ -1,4 +1,4 @@
-#Write a program to display sum of two complex numbers.
+#Write a program to display sum of two complex numbers. p2
 a= complex(3,4)
 b=complex(5,3)
 sum=a+b
